@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PERRIYAY
+- 👋 Hi, I’m @PERRI YAY
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java & python
 - 💞️ I’m looking to collaborate on any programme
